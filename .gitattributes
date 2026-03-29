@@ -1,0 +1,2 @@
+Model/*.model filter=lfs diff=lfs merge=lfs -text
+Model/*.index filter=lfs diff=lfs merge=lfs -text
