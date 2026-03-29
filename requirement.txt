@@ -1,0 +1,14 @@
+faiss-cpu==1.10.0
+fastapi==0.68.0
+gensim==4.3.3
+nltk==3.9.1
+numpy==1.26.4
+psutil==7.0.0
+pymongo==4.11.2
+torch==2.6.0
+tqdm==4.67.1
+rank-bm25==0.2.2
+sentence-transformers==4.0.0
+uvicorn==0.34.0  # Required for FastAPI
+google-api-python-client==2.167.0
+
