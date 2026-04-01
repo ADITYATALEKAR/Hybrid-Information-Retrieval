@@ -38,7 +38,7 @@ def download_file(service, file_id, file_name, download_folder):
 # Main function to download files from a list of Google Drive URLs
 def download_files_from_urls(file_urls, download_folder):
     # Build the Google Drive API service with your API key (no authentication required)
-    service = build('drive', 'v3', developerKey='AIzaSyCCjokRnFEaPpnhxO1BlAw0q2O1IQdNSSA')  # Use your API key here
+    service = build('drive', 'v3', developerKey='fnajkfajfak924940')  # Use your API key here
 
     if not os.path.exists(download_folder):
         os.makedirs(download_folder)
